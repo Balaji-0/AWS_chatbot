@@ -1,5 +1,6 @@
-faiss-cpu
 streamlit
 pypdf
-langchain   
+langchain
+langchain_community
+faiss-cpu
 boto3
