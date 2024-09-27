@@ -1,5 +1,4 @@
 streamlit
-pypdf
 langchain
 langchain_community
 boto3
